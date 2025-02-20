@@ -41,7 +41,7 @@ function CodeEditor() {
         }
 
         try {
-            const res = await Axios.post("http://localhost:8000/compile", {
+            const res = await Axios.post("https://code-editorlovelysingh.onrender.com/compile", {
                 code: userCode,
                 language: userLang,
                 input: userInput,
