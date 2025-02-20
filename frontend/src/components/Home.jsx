@@ -217,7 +217,7 @@ function Home() {
             Join thousands of developers who are already using CodeCollab to build amazing things.
           </p>
           <button
-  onClick={() => (window.location.href = "http://localhost:5174")}
+  onClick={() => (window.location.href = "https://jattdontcare-is7awrl6f-aritra-sharmas-projects.vercel.app")}
   className="bg-white text-gray-900 px-8 py-3 rounded-lg text-lg font-semibold transition-all hover:bg-gray-100 hover:scale-105 hover:shadow-lg"
 >
   Start Collab Now
